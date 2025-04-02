@@ -1,0 +1,10 @@
+server:
+  port: 8080
+database:
+  host: localhost
+  port: 5433
+  user: postgres
+  password: 1234
+  dbname: document_management
+jwt-secret:
+  SECRET_KEY: MTIzNDU2NDU5OThEMzIxM0F6eGMzNTE2NTQzMjEzMjE2NTQ5OHEzMTNhMnMxZDMyMnp4M2MyMQ==

@@ -1,0 +1,9 @@
+<!-- <group>
+                        <field name="video_url" modifiers="{'invisible': True}"/>
+                        <div class="oe_center" modifiers="{'invisible': [('video_url', '=', False)]}">
+                            <iframe width="560" height="315" frameborder="0" allowfullscreen="1"
+                                    src="https://www.youtube.com/watch?v=AkAGhHTLRcs">
+                                 
+                            </iframe>
+                        </div>
+                    </group> -->
